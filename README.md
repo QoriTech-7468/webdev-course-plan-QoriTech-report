@@ -60,7 +60,7 @@ requiere descargas!** Solo abre tu navegador web.<br>
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
+- **Empieza a programar**: [Open CodePen](https://codepen.io/in913/pen/QwNKMxM?editors=1001)
 ### Lección 2: Introducción a HTML (9 minutos 13 segundos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
@@ -68,19 +68,19 @@ requiere descargas!** Solo abre tu navegador web.<br>
 - **Práctica**: [Clic para programar](https://jsfiddle.net/9Grini13/ynamvq90/54/) }
 ### Lección 3: Añadir más elementos HTML (10minutos 46 segundos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
-- **Consejos clave**: Usa las etiquetas `<header>`,`<ul>`, `<img>`, `<a>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 
+- **Enlace**: [Ver la lección](https://codepen.io/in913/pen/QwNKMxM?editors=1001)
+- **Consejos clave**: Usa las etiquetas `<header>`, `<nav>`, `<ul>`, `<img>`, `<a>`.
+- **Práctica**: [Clic para programar](https://codepen.io/in913/pen/QwNKMxM?editors=1001) 
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
 - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 
-### Lección 5: Crear una página web sencilla (15 minutos)
+### Lección 5: Crear una página web sencilla (18 minutos 10 segundos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 
+- **Proyecto Final**: [Crea tu Perfil](https://codepen.io/in913/pen/QwNKMxM?editors=1001) 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
