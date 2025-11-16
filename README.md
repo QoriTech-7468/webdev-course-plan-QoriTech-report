@@ -58,34 +58,34 @@ requiere descargas!** Solo abre tu navegador web.<br>
 ## Secuencia de la lección
 ### Lección 1: ¿Qué es el desarrollo web? (8 minutos 17 segundos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/SusqM7ASFGA)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Open CodePen](https://codepen.io/in913/pen/QwNKMxM?editors=1001)
 ### Lección 2: Introducción a HTML (9 minutos 13 segundos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/FaPguY745n4)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/9Grini13/ynamvq90/54/) }
+- **Práctica**: [Clic para programar](https://jsfiddle.net/9Grini13/ynamvq90/54/) 
 ### Lección 3: Añadir más elementos HTML (10minutos 46 segundos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://codepen.io/in913/pen/QwNKMxM?editors=1001)
+- **Enlace**: [Ver la lección](https://youtu.be/o_V6xH8VUoA)
 - **Consejos clave**: Usa las etiquetas `<header>`, `<nav>`, `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://codepen.io/in913/pen/QwNKMxM?editors=1001) 
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/_xNUXHCPsjg)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/chris-12-the-builder/pen/myPOYee?editors=1100) 
 ### Lección 5: Crear una página web sencilla (18 minutos 10 segundos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/AwHMVvA1wWI)
 - **Consejos clave**: Aplicar estilos y depurar errores.
 - **Proyecto Final**: [Crea Componente - Results Sumary](https://codepen.io/yak-cod/pen/MYybyBx) 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver Lección](https://youtu.be/rVk_2DVW8mo)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
-- **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
+- **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/KNXMFbrxVJTmBbKG9)
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
 - **Ejemplos de practicas**: [Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
