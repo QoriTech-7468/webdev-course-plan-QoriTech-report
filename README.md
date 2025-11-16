@@ -49,38 +49,38 @@
 # Fundamentos de Desarrollo Web
 ## Resumen del Curso
 Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡No
-requiere descargas!** Solo abre tu navegador web.
-**Duración total**: ~60 minutos
-**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
-**Prerrequisitos**: Ninguno
-**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-**📂 Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/yourusername/webdev-course-teamname)
+requiere descargas!** Solo abre tu navegador web.<br>
+**Duración total**: ~60 minutos<br>
+**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación<br>
+**Prerrequisitos**: Ninguno<br>
+**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)<br>
+**Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/yourusername/webdev-course-teamname)<br>
 ## Secuencia de la lección
-### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+### Lección 1: ¿Qué es el desarrollo web? (8 minutos 17 segundos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
-### Lección 2: Introducción a HTML (10 minutos)
+### Lección 2: Introducción a HTML (9 minutos 13 segundos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
-### Lección 3: Añadir más elementos HTML (8 minutos)
+- **Práctica**: [Clic para programar](https://jsfiddle.net/9Grini13/ynamvq90/54/) }
+### Lección 3: Añadir más elementos HTML (10minutos 46 segundos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
-- **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
+- **Consejos clave**: Usa las etiquetas `<header>`,`<ul>`, `<img>`, `<a>`.
+- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
+- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
@@ -93,7 +93,7 @@ requiere descargas!** Solo abre tu navegador web.
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
+| 2 | Primera página HTML | [JSFiddle](https://jsfiddle.net/your-lesson2) |
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
