@@ -42,7 +42,7 @@
 <td>U202213185</td>
 </tr>
 </table>
-<div>Octubre 2025 </div>
+<div>Noviembre 2025 </div>
 </div>
 
 
@@ -80,7 +80,7 @@ requiere descargas!** Solo abre tu navegador web.<br>
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 - **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**: [Crea tu Perfil](https://codepen.io/in913/pen/QwNKMxM?editors=1001) 
+- **Proyecto Final**: [Crea Componente - Results Sumary](https://codepen.io/yak-cod/pen/MYybyBx) 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
@@ -88,13 +88,14 @@ requiere descargas!** Solo abre tu navegador web.<br>
 - **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
+- **Ejemplos de practicas**: [Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 - **Todas las Actividades Prácticas**:
 
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
 | 2 | Primera página HTML | [JSFiddle](https://jsfiddle.net/your-lesson2) |
-| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
+| 3 | Añadir imágenes | [JSFiddle](https://codepen.io/your-lesson) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
 
@@ -102,13 +103,19 @@ requiere descargas!** Solo abre tu navegador web.<br>
 - Compartir: #WebDevBeginners
 **¡Gracias por completar el curso!**
 ---
-## 👥 Elaboración
-Universidad Peruana de Ciencias Aplicadas
-Carrera de Ingeniería de Software
-Período 202520
-1ASI0730 Aplicaciones Web
-NRC [Número de NRC]
-**Nombre del equipo**: [Nombre de su equipo]
-**Líder del equipo**: [Nombres y Apellidos del líder]
-**Integrantes del equipo**: [Nombres y Apellidos de cada participante]
-**Fecha de entrega**: [Fecha]
+##  Elaboración
+**Universidad Peruana de Ciencias Aplicadas**<br>
+**Carrera** de Ingeniería de Software<br>
+**Período 202520**<br>
+**Curso** 1ASI0730 Aplicaciones Web<br>
+**NRC** 7468<br>
+**Nombre del equipo**: QoriTech<br>
+**Líder del equipo**: Castillo Vidal, Jesus Ivan<br>
+**Integrantes del equipo**:<br>
+- Costa Morales, Christofer William  
+- Gordillo Ramos, Santiago Alonso
+- Guzmán Cabrejos, Yaku Mateo
+- Medina Merma, Ingrid Melani
+<br>
+
+**Fecha de entrega**: 16/11/2025
