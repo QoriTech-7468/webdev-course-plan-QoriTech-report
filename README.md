@@ -71,7 +71,7 @@ requiere descargas!** Solo abre tu navegador web.<br>
 - **Enlace**: [Ver la lección](https://youtu.be/o_V6xH8VUoA)
 - **Consejos clave**: Usa las etiquetas `<header>`, `<nav>`, `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://codepen.io/in913/pen/QwNKMxM?editors=1001) 
-### Lección 4: Introducción a CSS (12 minutos)
+### Lección 4: Introducción a CSS (12 minutos 6 segundos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://youtu.be/_xNUXHCPsjg)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
@@ -81,7 +81,7 @@ requiere descargas!** Solo abre tu navegador web.<br>
 - **Enlace**: [Ver la lección](https://youtu.be/AwHMVvA1wWI)
 - **Consejos clave**: Aplicar estilos y depurar errores.
 - **Proyecto Final**: [Crea Componente - Results Sumary](https://codepen.io/yak-cod/pen/MYybyBx) 
-### Lección 6: Consejos y Próximos Pasos (10 minutos)
+### Lección 6: Consejos y Próximos Pasos (15 minutos 42 segundos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver Lección](https://youtu.be/rVk_2DVW8mo)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
