@@ -54,7 +54,7 @@ requiere descargas!** Solo abre tu navegador web.<br>
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación<br>
 **Prerrequisitos**: Ninguno<br>
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)<br>
-**Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/yourusername/webdev-course-teamname)<br>
+**Repositorio de código fuente**: [webdev-course-QoriTech](https://github.com/QoriTech-7468/webdev-course-QoriTech.git)<br>
 ## Secuencia de la lección
 ### Lección 1: ¿Qué es el desarrollo web? (8 minutos 17 segundos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
