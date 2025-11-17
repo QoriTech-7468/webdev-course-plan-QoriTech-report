@@ -50,7 +50,7 @@
 ## Resumen del Curso
 Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡No
 requiere descargas!** Solo abre tu navegador web.<br>
-**Duración total**: ~60 minutos<br>
+**Duración total**: ~73 minutos<br>
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación<br>
 **Prerrequisitos**: Ninguno<br>
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)<br>
